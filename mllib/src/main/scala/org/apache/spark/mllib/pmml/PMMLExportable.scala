@@ -80,3 +80,5 @@ trait PMMLExportable {
   }
 
 }
+
+// pmml 测试效率不高
